@@ -1,4 +1,4 @@
-# 🌟 **ERC-20 Token & Token Sale Contracts** 🌟  
+#  **ERC-20 Token & Token Sale Contracts**   
 
 Welcome to the **ERC-20 Token and Token Sale** repository! This project enables the creation of custom tokens and their decentralized sale on the blockchain. 🚀  
 
